@@ -1,0 +1,11 @@
+streamlit>=1.11
+scikit-learn==1.4.2
+joblib==1.4.2
+nltk==3.8.1
+requests==2.31.0
+pandas==2.2.1
+matplotlib==3.8.3
+plotly==5.20.0
+tensorflow==2.16.1
+openpyxl
+
