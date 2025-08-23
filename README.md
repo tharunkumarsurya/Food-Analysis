@@ -1,4 +1,4 @@
-# Smart Spoon 🍽️  
+# Food Analysis🍽️  
 AI-powered food recognition and personalized sodium intake recommendations.
 
 ## 🚀 Project Overview
